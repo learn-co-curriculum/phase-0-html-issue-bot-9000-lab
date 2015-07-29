@@ -1,8 +1,4 @@
----
-languages: html
-tags: validation, errors
-resources: 1
----
+
 
 # HTML Issue Bot 9000
 
