@@ -15,3 +15,5 @@ Bleep bloop, please help Issue Bot 9000 solve all HTML validation errors using t
 ## Resources
 
 [W3C HTML Validator - Validate Direct Input](http://validator.w3.org/#validate_by_input)
+
+<a href='https://learn.co/lessons/html-issue-bot-9000' data-visibility='hidden'>View this lesson on Learn.co</a>
