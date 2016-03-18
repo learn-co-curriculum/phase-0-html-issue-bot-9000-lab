@@ -1,4 +1,3 @@
-GreenOnion.configure do |c|
   c.skins_dir = './spec/skins'
   c.driver = :selenium
   c.dimensions = {
