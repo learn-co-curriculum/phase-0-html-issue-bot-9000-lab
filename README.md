@@ -10,6 +10,10 @@ Let's practice using the W3C's HTML Validator!
 
 ## Correct Invalid HTML To Be Valid
 
+In this lab we'll use the W3C Validator to make our invalid HTML happy!
+You might need to change how you work this problem depending on your 
+work environment. Either way you'll learn to fix invalid HTML.
+
 ### Tasks for LearnIDE Environment Users
 
 1. Click the "OPEN IDE" button
@@ -39,14 +43,12 @@ feedback from the W3C validator about it.
 
 When your document is valid, go to the terminal and type:
 
-`bundle`
-
-then
-
 `learn`
 
-The Learn platform will verify your code. To move to the next lesson, type
-`learn submit`.
+Since you're verifying the HTML structure via W3C, the test here is not
+robust at all.
+
+To move to the next lesson, type `learn submit`.
 
 ## Resources
 
