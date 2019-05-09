@@ -1,12 +1,12 @@
 # HTML Issue Bot 9000
 
-## Problem Statement
-
-Let's practice using the W3C's HTML Validator!
-
-## Objectives
+## Learning Goals
 
 1. Correct invalid HTML to be valid
+
+## Introduction
+
+Let's practice using the W3C's HTML Validator!
 
 ## Correct Invalid HTML To Be Valid
 
