@@ -2,13 +2,13 @@
 
 ## Learning Goals
 
-1. Correct invalid HTML to be valid
+1. Demonstrate writing valid HTML
 
 ## Introduction
 
 Let's practice using the W3C's HTML Validator!
 
-## Correct Invalid HTML To Be Valid
+## Demonstrate Writing Valid HTML
 
 In this lab we'll use the W3C Validator to make our invalid HTML happy!
 You might need to change how you work this problem depending on your 
