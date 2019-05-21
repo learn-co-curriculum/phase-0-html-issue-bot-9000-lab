@@ -54,6 +54,4 @@ To move to the next lesson, type `learn submit`.
 
 * [W3C HTML Validator - Validate Direct Input][VBI]
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-issue-bot-9000' title='HTML Issue Bot 9000'>HTML Issue Bot 9000</a> on Learn.co and start learning to code for free.</p>
-
 [VBI]: http://validator.w3.org/#validate_by_input
