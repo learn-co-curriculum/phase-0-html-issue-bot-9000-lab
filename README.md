@@ -14,18 +14,11 @@ In this lab we'll use the W3C Validator to make our invalid HTML happy!
 You might need to change how you work this problem depending on your 
 work environment. Either way you'll learn to fix invalid HTML.
 
-### Tasks for LearnIDE Environment Users
+## Getting Started
 
-1. Click the "OPEN IDE" button
-
-### Tasks for Local Environment Users
-
-1. Fork this repository.
-2. Clone your fork locally.
-3. `cd` into the local repo you just cloned.
-
-In this lesson we'll be taking the provided `index.html` file and will get
-feedback from the W3C validator about it.
+Fork and clone this lesson into your local environment. Navigate into its directory
+in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
+run `bundle` to install the lab's dependencies.
 
 ### Steps
 
@@ -43,12 +36,10 @@ feedback from the W3C validator about it.
 
 When your document is valid, go to the terminal and type:
 
-`learn`
+`rspec`
 
 Since you're verifying the HTML structure via W3C, the test here is not
 robust at all.
-
-To move to the next lesson, type `learn submit`.
 
 ## Resources
 
