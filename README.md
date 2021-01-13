@@ -32,14 +32,11 @@ run `bundle` to install the lab's dependencies.
    completed. No errors or warnings to show."
 8. Not only is the document now W3C-valid, it no longer looks weird
 
-### Submitting the Lab
+### Wrapping Up
 
-When your document is valid, go to the terminal and type:
-
-`rspec`
-
-Since you're verifying the HTML structure via W3C, the test here is not
-robust at all.
+When your document is valid, go to the terminal and type `rspec`. Since the goal of this assignment 
+is to practce verifying the HTML structure via W3C, the test in this lab is only checking that an `index.html` file
+exists.
 
 ## Resources
 
