@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-1. Demonstrate writing valid HTML
+- Demonstrate writing valid HTML
 
 ## Introduction
 
@@ -10,21 +10,22 @@ Let's practice using the W3C's HTML Validator!
 
 ## Demonstrate Writing Valid HTML
 
-In this lab we'll use the W3C Validator to make our invalid HTML happy!
-You might need to change how you work this problem depending on your 
-work environment. Either way you'll learn to fix invalid HTML.
+In this lab we'll use the W3C Validator to make our invalid HTML happy! You
+might need to change how you work this problem depending on your work
+environment. Either way you'll learn to fix invalid HTML.
 
 ## Getting Started
 
-Fork and clone this lesson into your local environment. Navigate into its directory
-in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
-run `bundle` to install the lab's dependencies.
+Fork and clone this lesson into your local environment. Navigate into its
+directory in the terminal, then run `code .` to open the files in Visual Studio
+Code. Finally, run `npm install` to install the lab's dependencies.
 
 ### Steps
 
 1. Open index.html in a browser. See how it, well, doesn't look _quite_ right?
 2. Open index.html in your text editor
-3. Visit the W3C validator at: [http://validator.w3.org/#validate_by_input][VBI]
+3. Visit the W3C validator at:
+   [http://validator.w3.org/#validate_by_input][validator]
 4. Copy the code from index.html and paste it into the text area
 5. Click the large "Check" button
 6. Use the error messages to correct the code your copy of `index.html`
@@ -34,12 +35,12 @@ run `bundle` to install the lab's dependencies.
 
 ### Wrapping Up
 
-When your document is valid, go to the terminal and type `rspec`. Since the goal of this assignment 
-is to practce verifying the HTML structure via W3C, the test in this lab is only checking that an `index.html` file
-exists.
+When your document is valid, go to the terminal and type `npm test`. Since the
+goal of this assignment is to practice verifying the HTML structure via W3C, the
+test in this lab is only checking that an `index.html` file exists.
 
 ## Resources
 
-* [W3C HTML Validator - Validate Direct Input][VBI]
+- [W3C HTML Validator - Validate Direct Input][validator]
 
-[VBI]: http://validator.w3.org/#validate_by_input
+[validator]: http://validator.w3.org/#validate_by_input
