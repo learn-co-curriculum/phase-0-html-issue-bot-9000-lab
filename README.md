@@ -18,7 +18,7 @@ environment. Either way you'll learn to fix invalid HTML.
 
 Fork and clone this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
-Code. Finally, run `npm install` to install the lab's dependencies.
+Code.
 
 ### Steps
 
@@ -35,7 +35,7 @@ Code. Finally, run `npm install` to install the lab's dependencies.
 
 ### Wrapping Up
 
-When your document is valid, go to the terminal and type `npm test`. Since the
+When your document is valid, go to the terminal and type `learn test`. Since the
 goal of this assignment is to practice verifying the HTML structure via W3C, the
 test in this lab is only checking that an `index.html` file exists.
 
