@@ -37,7 +37,8 @@ Code.
 
 When your document is valid, go to the terminal and type `npm test`. Since the
 goal of this assignment is to practice verifying the HTML structure via W3C, the
-test in this lab is only checking that an `index.html` file exists.
+test in this lab is only checking that an `index.html` file exists. Remember to
+submit your work using CodeGrade when you're done!
 
 ## Resources
 
